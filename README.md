@@ -19,7 +19,34 @@
 Страница авторизации
 
 
+![image](https://github.com/user-attachments/assets/00dfadcc-17a0-4e80-bfee-b1327b512678)
 
+Главная страница с полным функционалом веб-приложения
+
+
+![image](https://github.com/user-attachments/assets/c825ba9d-98bb-4117-ac1e-18bf2a7a3ac8)
+
+Страница личный кабинет
+
+
+![image](https://github.com/user-attachments/assets/85613853-bbbd-467b-9e07-af98db2e81ac)
+
+Страница записи на прием
+
+
+![image](https://github.com/user-attachments/assets/8ef687fe-4368-44e1-acf4-e1214063cd65)
+
+Страница просмотра и отмены записей
+
+
+![image](https://github.com/user-attachments/assets/fbe57f61-14b6-428c-8150-853bf01171e6)
+
+Страница просмотра всех врачей
+
+
+![image](https://github.com/user-attachments/assets/4b27f796-5234-408e-88dd-2f11af4483bd)
+
+Страница просмотра подробной информации
 
 
 ![image](https://github.com/user-attachments/assets/7a4a4fce-20ef-4413-ba62-bbd7c1c89693)
