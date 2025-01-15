@@ -8,6 +8,20 @@
 Главная старница веб-приложения
 
 
+![image](https://github.com/user-attachments/assets/f1475eeb-4f3c-4d7b-af75-d85c6a4da56b)
+
+Страница регистрации
+
+
+
+![image](https://github.com/user-attachments/assets/49fd5839-ac37-4194-b326-a6066a7380e9)
+
+Страница авторизации
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/7a4a4fce-20ef-4413-ba62-bbd7c1c89693)
 
 Схема БД
